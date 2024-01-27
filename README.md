@@ -3,6 +3,8 @@
 <hr>
 
 <h3>Languages & Tools</h3>
+- ![JavaScript](path/to/javascript.png)
+- ![Java](path/to/java.png)
 <hr>
 
 
