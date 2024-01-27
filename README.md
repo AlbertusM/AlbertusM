@@ -1,10 +1,10 @@
-### <h1>Albertus Meiring</h1> 👋
+### <h1>Albertus Meiring 👋</h1> 
 
 <hr>
 
 <h3>Languages & Tools</h3>
 <hr>
-[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+
 
 
 <!--
